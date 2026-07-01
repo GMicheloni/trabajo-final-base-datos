@@ -1,0 +1,51 @@
+CREATE SEQUENCE seq_log_sucursal
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_tipo_vehiculo
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_vehiculo
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_reserva
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_alquiler
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_alquiler_x_estado
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_reserva_x_estado
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_vehiculo_x_estado
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_detalle_factura
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_factura
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_taller
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_mantenimiento
+START 1
+INCREMENT 1;
+
+CREATE SEQUENCE seq_log_tarifa
+START 1
+INCREMENT 1;

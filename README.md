@@ -1,2 +1,3 @@
 # trabajo-final-base-datos
-Sistema de base de datos para la gestión de alquiler de vehículos, desarrollado como trabajo práctico final de Tecnología de Base de Datos.
+Trabajo práctico final de Tecnología de Base de Datos basado en un sistema de gestión de alquiler de vehículos, con diseño de base de datos, procedimientos, funciones, triggers, índices, secuencias y jobs.
+
